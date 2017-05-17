@@ -3,8 +3,8 @@ session_start();
 ?>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
-<title>Выход</title>
+<meta http-equiv="Content-Type" content="text/html;  charset=utf-8">
+<title>Р’С‹С…РѕРґ</title>
 </head>
 <body>
 <?php
