@@ -1,0 +1,140 @@
+body
+{
+	font-family: Tahoma;
+}
+
+.b1
+{
+	margin: 100px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	width: 310px;
+	padding-bottom: 6px;
+}
+
+.tr1:hover
+{
+	background: #00FFFF;
+	padding: 0;
+}
+
+.menu1
+{
+	border: 1px solid #666;
+	padding: 4px;
+	width: 160px;
+	border-radius: 4px;
+	margin: 2px;
+	background: #fff;
+	color: blue;
+	text-decoration: none;
+}
+
+
+.menu1:hover
+{
+	background: blue;
+	color: #fff;
+	text-decoration: underline;
+}
+
+.href1
+{
+	border: 1px solid #666;
+	padding: 2px;
+	border-radius: 4px;
+	background: #fff;
+	color: blue;
+	text-decoration: none;
+}
+
+.href1:hover
+{
+	background: blue;
+	color: #fff;
+	text-decoration: underline;
+}
+
+.href2
+{
+	border: 1px solid #666;
+	padding: 10px;
+	border-radius: 4px;
+	background: #fff;
+	color: green;
+	text-decoration: none;
+}
+
+.href2:hover
+{
+	background: green;
+	color: #fff;
+	text-decoration: underline;
+}
+
+.href3
+{
+	border: 1px solid #666;
+	padding: 10px;
+	border-radius: 4px;
+	background: #fff;
+	color: red;
+	text-decoration: none;
+}
+
+.href3:hover
+{
+	background: red;
+	color: #fff;
+	text-decoration: underline;
+}
+
+.href4
+{
+	border: 1px solid #666;
+	padding: 2px;
+	border-radius: 4px;
+	background: #fff;
+	color: red;
+	text-decoration: none;
+}
+
+.href4:hover
+{
+	background: red;
+	color: #fff;
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
