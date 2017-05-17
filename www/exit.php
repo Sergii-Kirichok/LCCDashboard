@@ -1,5 +1,6 @@
 <?php
 session_start();
+// типа комент
 ?>
 <html>
 <head>
